@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://nurturingmachines.files.wordpress.com/2021/01/kehlani_-_nights_like_this.png" width="100px" alt="Manan Kharwar Spotify Playing" width="350" />](https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy?si=H9nBPg9PT9OuxK65dkgbUg)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
