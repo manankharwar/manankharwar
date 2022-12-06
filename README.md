@@ -5,7 +5,7 @@
 - 🔭 An aspiring student who loves being surrounded by high-tech clubs and materialistic stuffs!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goal: Participate in as many competitions as possible
+- 🥅 2023 Goal: Participate in as many competitions as possible
 - ⚡ Fun fact: I can do a backflip!
 
 ### Connect with me:
