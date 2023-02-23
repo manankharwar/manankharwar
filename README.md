@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2023 Goal: Participate in as many competitions as possible
-- ⚡ Fun fact: I can do a backflip!
+- ⚡ Fun fact: I can do a backflip.
 
 ### Connect with me:
 
