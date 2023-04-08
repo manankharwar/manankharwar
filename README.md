@@ -1,4 +1,4 @@
-### Hi there, I'm Manan - aka [NurturingMachines][website] 👋
+### Hi there, I'm Manan - aka [Manan Kharwar Portfolio][website] 👋
 
 ## I'm a student pursuing Engineering Physics here at McMaster University!!
 
@@ -47,7 +47,7 @@
 
 ---
 
-[website]: https://nurturingmachines.wordpress.com/portfolio/
+[website]: https://manankharwar.com/
 [twitter]: https://twitter.com/Manan11342072
 [instagram]: https://www.instagram.com/manan_kharwar/
 [linkedin]: https://www.linkedin.com/in/manan-kharwar-779713154/
