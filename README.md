@@ -1,4 +1,4 @@
-### Hi there, I'm Manan - aka [Manan Kharwar Portfolio][website] 👋
+### Hi there, I'm Manan - aka [Portfolio][website] 👋
 
 ## I'm a student pursuing Engineering Physics here at McMaster University!!
 
