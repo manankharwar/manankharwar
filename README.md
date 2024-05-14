@@ -1,11 +1,11 @@
 ### Hi there, I'm Manan - aka [Portfolio][website] 👋
 
-## I'm a student pursuing Engineering Physics here at McMaster University!!
+## I'm a recent Engineering Physics grad from McMaster University!!
 
-- 🔭 An aspiring student who loves being surrounded by high-tech clubs and materialistic stuffs!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goal: Participate in as many competitions as possible
+- 🔭 Passionate about high-tech clubs and materialistic stuff!
+- 🌱 Always eager to learn new things 🤣
+- 👯 Seeking collaborations with fellow developers
+- 🥅 2024 Goal: Engage in numerous competitions
 - ⚡ Fun fact: I can do a backflip.
 
 ### Connect with me:
