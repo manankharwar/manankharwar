@@ -1,11 +1,10 @@
 ### Hi there, I'm Manan - aka [Portfolio][website] 👋
 
-## I'm a recent Engineering Physics grad from McMaster University!!
+## Engineering Physics grad building enterprise accessibility compliance tools!
 
-- 🔭 Passionate about high-tech clubs and materialistic stuff!
-- 🌱 Always eager to learn new things 🤣
+- 🚀 Currently building AccessOps - Enterprise web accessibility compliance platform
+- 🔧 Transforming WCAG compliance from manual scanning to automated team workflows
 - 👯 Seeking collaborations with fellow developers
-- 🥅 2024 Goal: Engage in numerous competitions
 - ⚡ Fun fact: I can do a backflip.
 
 ### Connect with me:
