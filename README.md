@@ -4,6 +4,7 @@
 
 - 🚀 Currently building AccessOps - Enterprise web accessibility compliance platform
 - 🔧 Transforming WCAG compliance from manual scanning to automated team workflows
+- 🎯 Building Chrome extension + full-stack platform with React, Node.js, PostgreSQL
 - 👯 Seeking collaborations with fellow developers
 - ⚡ Fun fact: I can do a backflip.
 
