@@ -47,7 +47,7 @@
 
 ---
 
-[website]: https://manankharwar.com/
+[website]: https://manankharwar.netlify.app/
 [twitter]: https://twitter.com/Manan11342072
 [instagram]: https://www.instagram.com/manan_kharwar/
-[linkedin]: https://www.linkedin.com/in/manan-kharwar-779713154/
+[linkedin]: https://www.linkedin.com/in/manankharwar
